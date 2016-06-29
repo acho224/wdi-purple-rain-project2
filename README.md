@@ -1,2 +1,2 @@
-# wdi-purple-rain-project2-
+# wdi-purple-rain-project2
 Project 2
