@@ -1,9 +1,9 @@
-# PLAY PAL
+# PlayPAL
 
 Model # 1 - Four Square API
 
 Use Four Square's API to retrieve data for all NYC dog parks.
-There will be 2 or 3 search parameters
+There will be 2 or 3 search parameters.
 Park data will available for all users and guests.
 Only users will be able to read and post reviews.
 Users will be required to log in to their account in order to leave comments.
