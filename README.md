@@ -1,12 +1,13 @@
-# PlayPAL
+# PlayPal
 
 As a dog owner I'm always looking for a dog park where my dog can have optimal fun.
-Yes, there is a dog park near where I live but there's usually 1 or 2 dogs at most there. It covered in broken glass and there is always dog shit that has not been picked up by their irresponsible owners.
+Yes, there is a dog park near where I live but there's usually 1 or 2 dogs at most there. It's covered in broken glass and there is always dog shit that has not been picked up by their irresponsible owners.
 
-What if there's another dog park not far away? Is it any better than the one I normally go to?
-Could it be possibly cleaner? Can I take the leash off my dog? Are there other dogs there?
+What if there's an undiscovered dog park not too far away? Is it any better than the one I normally go to?
+Could it possibly be cleaner? Can I take the leash off my dog? Are there other dogs there?
 
-I present, PlayPal. An app where you can let the dogs out and so they can have can the best hour of their lives, everyday.
+I present, PlayPal. An app to aid you in giving your dog the most enjoyable activity of the day, each and every day.
+
 PlayPal will allow users to search nearby dog parks and leave comments based on their experience as well as read comments left by other user's experiences. As an added bonus, PlayPal will also be able to show available pet stores nearby just in case you need a toy before you unleash the Kraken.
 
 # Model # 1 - Four Square API
