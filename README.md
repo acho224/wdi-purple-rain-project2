@@ -1,3 +1,4 @@
+![running dog](images/running_dog.gif)
 # PlayPal
 
 As a dog owner I'm always looking for a dog park where my dog can have optimal fun.
@@ -31,6 +32,8 @@ Users/guests will be able to search by zip code, price, and number of stars.
 Users will be required to log into their account in order to leave comments.
 
 # Wireframe
-By the end of this project, the app will have a nav bar, blah blah blah pages, blah blah blah
+
+Home
+
 
 
