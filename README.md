@@ -12,6 +12,7 @@ I present, PlayPal. An app to aid you in giving your dog the most enjoyable acti
 PlayPal will allow users to search nearby dog parks and leave comments based on their experience as well as read comments left by other user's experiences. As an added bonus, PlayPal will also be able to show available pet stores nearby just in case you need a toy before you unleash the Kraken.
 
 # Model # 1 - Four Square API
+Where My Dogs At?
 
 Use Four Square's API to retrieve data for all NYC dog parks.
 https://developer.foursquare.com/start/search 
@@ -23,6 +24,7 @@ Users will be required to log in to their account in order to leave comments.
 
 
 # Model # 2 - Yelp API
+Dogs-R-Us
 
 Use Yelp's API to retrieve all data for pet stores.
 https://www.yelp.com/developers/documentation/v2/search_api
@@ -32,8 +34,15 @@ Users/guests will be able to search by zip code, price, and number of stars.
 Users will be required to log into their account in order to leave comments.
 
 # Wireframe
-
 Home
+![home](framework/home.png)
 
+Sign Up
+![sign_up](framework/sign_up.png)
 
+Where My Dogs At ?
+![dog_parks](framework/dog_parks.png)
+
+Dogs-R-Us
+![pet_stores](framework/pet_stores.png)
 
