@@ -1,0 +1,1711 @@
+[
+
+{
+  "meta": {
+    "code": 200,
+    "requestId": "57759578498ed1aed088ad0f"
+  },
+  "notifications": [
+    {
+      "type": "notificationTray",
+      "item": {
+        "unreadCount": 0
+      }
+    }
+  ],
+  "response": {
+
+    "venues": [
+      {
+        "id": "4a5a3dc2f964a520f7b91fe3",
+        "name": "Jemmy's Dog Run",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "Madison Square Park",
+          "crossStreet": "25th & Broadway",
+          "lat": 40.742184818893,
+          "lng": -73.98838288,
+          "postalCode": "10012",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Madison Square Park (25th & Broadway)",
+            "New York, NY 10012"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 10271,
+          "usersCount": 4296,
+          "tipCount": 35
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4ba41754f964a5207a8038e3",
+        "name": "Vernon Blvd Dog Park",
+        "contact": {},
+        "location": {
+          "address": "Vernon Blvd",
+          "crossStreet": "at 48th Ave",
+          "lat": 40.743808,
+          "lng": -73.95339527311495,
+          "postalCode": "11109",
+          "cc": "US",
+          "city": "Queens",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Vernon Blvd (at 48th Ave)",
+            "Long Island City, NY 11109"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 2253,
+          "usersCount": 334,
+          "tipCount": 12
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4b723621f964a52018742de3",
+        "name": "Stuyvesant Square Park",
+        "contact": {
+          "phone": "2124735050",
+          "formattedPhone": "(212) 473-5050",
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "crossStreet": "at 2nd Ave.",
+          "lat": 40.73371412655719,
+          "lng": -73.98420810699463,
+          "postalCode": "10003",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "300 E 17th St. (at 2nd Ave.)",
+            "New York, NY 10003"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 9705,
+          "usersCount": 3970,
+          "tipCount": 29
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4baeb359f964a5202dd03be3",
+        "name": "River Place Dog Park",
+        "contact": {},
+        "location": {
+          "address": "650 W 42nd St",
+          "crossStreet": "Between 11th and 12th",
+          "lat": 40.76101466909988,
+          "lng": -73.99972320788626,
+          "postalCode": "10036",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "650 W 42nd St (Between 11th and 12th)",
+            "New York, NY 10036"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1153,
+          "usersCount": 281,
+          "tipCount": 6
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "43768200f964a520472a1fe3",
+        "name": "Washington Square Park Dog Run",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "Washington Square Park",
+          "crossStreet": "btw MacDougal & University",
+          "lat": 40.73073068503264,
+          "lng": -73.9985238271718,
+          "postalCode": "10012",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Washington Square Park (btw MacDougal & University)",
+            "New York, NY 10012"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 10256,
+          "usersCount": 4812,
+          "tipCount": 31
+        },
+        "url": "http://www.nycgovparks.org/parks/washingtonsquarepark",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4bd351c6462cb7130226de07",
+        "name": "Warren Street Dog Park",
+        "contact": {},
+        "location": {
+          "address": "Warren St",
+          "crossStreet": "btwn Greenwich & West St",
+          "lat": 40.71621653801577,
+          "lng": -74.0123176574707,
+          "postalCode": "10007",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Warren St (btwn Greenwich & West St)",
+            "New York, NY 10007"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 924,
+          "usersCount": 316,
+          "tipCount": 3
+        },
+        "url": "http://www.nycgovparks.org/parks/M366/",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4a5abe91f964a520d1ba1fe3",
+        "name": "Liberty State Park",
+        "contact": {
+          "phone": "2019153440",
+          "formattedPhone": "(201) 915-3440"
+        },
+        "location": {
+          "address": "1 Audrey Zapp Dr",
+          "lat": 40.702634849027795,
+          "lng": -74.05094146728516,
+          "postalCode": "07305",
+          "cc": "US",
+          "city": "Jersey City",
+          "state": "NJ",
+          "country": "United States",
+          "formattedAddress": [
+            "1 Audrey Zapp Dr",
+            "Jersey City, NJ 07305"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 20557,
+          "usersCount": 10424,
+          "tipCount": 98
+        },
+        "url": "http://www.state.nj.us/dep/parksandforests/parks/liberty.html",
+        "allowMenuUrlEdit": true,
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 2,
+          "summary": "2 people are here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 2,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4d793fe0109eb1f7a4b05c06",
+        "name": "Dog Park",
+        "contact": {},
+        "location": {
+          "lat": 40.741722910423086,
+          "lng": -73.98792992809034,
+          "cc": "US",
+          "state": "New York",
+          "country": "United States",
+          "formattedAddress": [
+            "New York"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 82,
+          "usersCount": 72,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4a88147ef964a5201e0520e3",
+        "name": "Chelsea Waterside Park Dog Run",
+        "contact": {
+          "twitter": "hudsonriverpark",
+          "facebook": "444743125127",
+          "facebookUsername": "HudsonRiverPark",
+          "facebookName": "Hudson River Park"
+        },
+        "location": {
+          "address": "599 W 22nd St",
+          "crossStreet": "btw 11th Ave & West Side Hwy",
+          "lat": 40.748669,
+          "lng": -74.00744901765106,
+          "postalCode": "10011",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "599 W 22nd St (btw 11th Ave & West Side Hwy)",
+            "New York, NY 10011"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 5988,
+          "usersCount": 2793,
+          "tipCount": 17
+        },
+        "url": "http://www.hudsonriverpark.org",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "5569ff90a7c8896abe7ddfc7"
+          }
+        ]
+      },
+      {
+        "id": "4c5f498112e5c92851d31c4c",
+        "name": "Stuyvesant Square Dog Park",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "2nd Ave",
+          "crossStreet": "btwn E 15th & 17th St",
+          "lat": 40.73311252005504,
+          "lng": -73.98403644561768,
+          "postalCode": "10003",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "2nd Ave (btwn E 15th & 17th St)",
+            "New York, NY 10003"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 6520,
+          "usersCount": 1262,
+          "tipCount": 15
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4b54b023f964a52026c727e3",
+        "name": "Di Mattina Dog Park",
+        "contact": {},
+        "location": {
+          "lat": 40.67982507412278,
+          "lng": -74.00294256108432,
+          "postalCode": "11231",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Brooklyn, NY 11231"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 466,
+          "usersCount": 129,
+          "tipCount": 5
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4a2ae99bf964a5206d961fe3",
+        "name": "Union Square Dog Run",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "Union Square Park",
+          "lat": 40.735639097110365,
+          "lng": -73.99098879002547,
+          "postalCode": "10003",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Union Square Park",
+            "New York, NY 10003"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 3080,
+          "usersCount": 1579,
+          "tipCount": 12
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "528ac52011d285bfc99d15fa",
+        "name": "Dog Park",
+        "contact": {},
+        "location": {
+          "address": "Bryant Park",
+          "lat": 40.74891791324276,
+          "lng": -73.99211361254487,
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Bryant Park",
+            "New York, NY"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 13,
+          "usersCount": 5,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4a68dff5f964a5202bcb1fe3",
+        "name": "Tompkins Square Park Dog Run",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "9th Street",
+          "crossStreet": "btw Ave A & Ave B",
+          "lat": 40.72664084128227,
+          "lng": -73.9813756942749,
+          "postalCode": "10009",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "9th Street (btw Ave A & Ave B)",
+            "New York, NY 10009"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 18295,
+          "usersCount": 5711,
+          "tipCount": 52
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4bdc7ce64b1f952145d0670b",
+        "name": "Hunter's Point South Dog Run",
+        "contact": {},
+        "location": {
+          "address": "51st Avenue",
+          "crossStreet": "Center Blvd",
+          "lat": 40.74335988477895,
+          "lng": -73.95981825762495,
+          "postalCode": "11101",
+          "cc": "US",
+          "city": "Queens",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "51st Avenue (Center Blvd)",
+            "Long Island City, NY 11101"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1229,
+          "usersCount": 378,
+          "tipCount": 9
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "49cea4dff964a5206a5a1fe3",
+        "name": "Monsignor McGolrick Park",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "Driggs Ave",
+          "crossStreet": "Monitor St",
+          "lat": 40.7243304368542,
+          "lng": -73.94394121583554,
+          "postalCode": "11222",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Driggs Ave (Monitor St)",
+            "Brooklyn, NY 11222"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 8166,
+          "usersCount": 2225,
+          "tipCount": 38
+        },
+        "url": "http://www.nycgovparks.org/parks/B114/",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "5759956f498e5809ffe5ab94",
+        "name": "The Dog Park",
+        "contact": {},
+        "location": {
+          "lat": 40.752642,
+          "lng": -73.977954,
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "New York, NY"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16f941735",
+            "name": "Hot Dog Joint",
+            "pluralName": "Hot Dog Joints",
+            "shortName": "Hot Dogs",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 1,
+          "usersCount": 1,
+          "tipCount": 0
+        },
+        "allowMenuUrlEdit": true,
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4b51f714f964a520da5d27e3",
+        "name": "Leroy Street Dog Run",
+        "contact": {
+          "twitter": "hudsonriverpark",
+          "facebook": "444743125127",
+          "facebookUsername": "HudsonRiverPark",
+          "facebookName": "Hudson River Park"
+        },
+        "location": {
+          "address": "Leroy St",
+          "crossStreet": "West Side Highway",
+          "lat": 40.730453,
+          "lng": -74.010915,
+          "postalCode": "10014",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Leroy St (West Side Highway)",
+            "New York, NY 10014"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 5373,
+          "usersCount": 2574,
+          "tipCount": 15
+        },
+        "url": "http://www.hudsonriverpark.org",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "5569ff90a7c8896abe7ddfc7"
+          }
+        ]
+      },
+      {
+        "id": "4dea640ec65be8091da45096",
+        "name": "Juliana Dogpark",
+        "contact": {},
+        "location": {
+          "lat": 40.74552640193844,
+          "lng": -74.03940756024824,
+          "cc": "US",
+          "city": "Hoboken",
+          "state": "NJ",
+          "country": "United States",
+          "formattedAddress": [
+            "Hoboken, NJ"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 87,
+          "usersCount": 12,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "451d2412f964a5208a3a1fe3",
+        "name": "Socrates Sculpture Park",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "3205 Vernon Blvd",
+          "crossStreet": "at Broadway",
+          "lat": 40.768467987244534,
+          "lng": -73.93633604049683,
+          "postalCode": "11106",
+          "cc": "US",
+          "city": "Long Island City",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "3205 Vernon Blvd (at Broadway)",
+            "Long Island City, NY 11106"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d166941735",
+            "name": "Sculpture Garden",
+            "pluralName": "Sculpture Gardens",
+            "shortName": "Sculpture",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 9363,
+          "usersCount": 4576,
+          "tipCount": 69
+        },
+        "url": "http://www.socratessculpturepark.org",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4d9877510caaa143f9daacb3",
+        "name": "Dog Park Under Manhattan Bridge",
+        "contact": {},
+        "location": {
+          "lat": 40.70276648242151,
+          "lng": -73.98969753155339,
+          "postalCode": "11201",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Brooklyn, NY 11201"
+          ]
+        },
+        "categories": [],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 160,
+          "usersCount": 92,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4ac889cbf964a5203bbc20e3",
+        "name": "Riverside Park South Dog Run",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "West 72nd St",
+          "crossStreet": "Riverside Drive",
+          "lat": 40.781191,
+          "lng": -73.986495,
+          "postalCode": "10024",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "West 72nd St (Riverside Drive)",
+            "New York, NY 10024"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 7085,
+          "usersCount": 2670,
+          "tipCount": 21
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 1,
+          "summary": "One other person is here",
+          "groups": [
+            {
+              "type": "others",
+              "name": "Other people here",
+              "count": 1,
+              "items": []
+            }
+          ]
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4b16d62bf964a52027be23e3",
+        "name": "J. Hood Wright Dog Park",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "West 173rd Street",
+          "crossStreet": "Broadway",
+          "lat": 40.84663173894824,
+          "lng": -73.94219615414318,
+          "postalCode": "10032",
+          "cc": "US",
+          "neighborhood": "Washington Heights",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "West 173rd Street (Broadway)",
+            "New York, NY 10032"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 3391,
+          "usersCount": 339,
+          "tipCount": 9
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4b9ff56df964a520ab4d37e3",
+        "name": "Dewitt Clinton Park Dog Run",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "W 52nd St",
+          "crossStreet": "at 11th Ave",
+          "lat": 40.767480843255775,
+          "lng": -73.9940074314752,
+          "postalCode": "10019",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "W 52nd St (at 11th Ave)",
+            "New York, NY 10019"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 7074,
+          "usersCount": 2499,
+          "tipCount": 17
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4ba66cd3f964a520245139e3",
+        "name": "Dog Park at the Docks",
+        "contact": {},
+        "location": {
+          "address": "West Side Highway",
+          "crossStreet": "btw 44th & 45th",
+          "lat": 40.763520142563465,
+          "lng": -73.99306052434783,
+          "postalCode": "10036",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "West Side Highway (btw 44th & 45th)",
+            "New York, NY 10036"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 97,
+          "usersCount": 81,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4df7b7adb0fbaeaaabe5d87e",
+        "name": "Maliadog VIP Indoor Dog Park",
+        "contact": {},
+        "location": {
+          "lat": 40.7447418864127,
+          "lng": -73.98742489553959,
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "New York, NY"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 5,
+          "usersCount": 5,
+          "tipCount": 0
+        },
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4ba5225cf964a520f4e138e3",
+        "name": "Riverview Park",
+        "contact": {},
+        "location": {
+          "address": "Palisade Ave",
+          "crossStreet": "btwn Griffith & Bowers St",
+          "lat": 40.74466404012713,
+          "lng": -74.04337227344513,
+          "postalCode": "07307",
+          "cc": "US",
+          "city": "Jersey City",
+          "state": "NJ",
+          "country": "United States",
+          "formattedAddress": [
+            "Palisade Ave (btwn Griffith & Bowers St)",
+            "Jersey City, NJ 07307"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d163941735",
+            "name": "Park",
+            "pluralName": "Parks",
+            "shortName": "Park",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "checkinsCount": 2379,
+          "usersCount": 557,
+          "tipCount": 12
+        },
+        "url": "http://riverviewneighborhood.org/venue/riverview-park/",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": []
+      },
+      {
+        "id": "4b588a79f964a520e65c28e3",
+        "name": "Peter Detmold Park Dog Run",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "address": "E 49 St To E 51 St",
+          "crossStreet": "W/S FDR Dr",
+          "lat": 40.753511261474465,
+          "lng": -73.96384745836258,
+          "postalCode": "10022",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "E 49 St To E 51 St (W/S FDR Dr)",
+            "New York, NY 10022"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2047,
+          "usersCount": 665,
+          "tipCount": 15
+        },
+        "url": "http://www.nycgovparks.org/parks/M108N/",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4dc5415ed22dafda2f9f01f9",
+        "name": "Fort Greene - Dog Park",
+        "contact": {
+          "twitter": "nycparks",
+          "facebook": "104475634308",
+          "facebookUsername": "BartowPell",
+          "facebookName": "Bartow-Pell Mansion Museum"
+        },
+        "location": {
+          "lat": 40.69045012098586,
+          "lng": -73.97421323151809,
+          "postalCode": "11201",
+          "cc": "US",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "Brooklyn, NY 11201"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 949,
+          "usersCount": 180,
+          "tipCount": 4
+        },
+        "url": "http://nyc.gov/parks",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "556df7e1a7c82e6b724d822e"
+          }
+        ]
+      },
+      {
+        "id": "4c0307e9187ec9283128b57b",
+        "name": "Pier 84 Dog Run",
+        "contact": {
+          "twitter": "hudsonriverpark",
+          "facebook": "444743125127",
+          "facebookUsername": "HudsonRiverPark",
+          "facebookName": "Hudson River Park"
+        },
+        "location": {
+          "address": "700 W 44th St.",
+          "crossStreet": "at 12th Ave.",
+          "lat": 40.76353920203019,
+          "lng": -74.0003774123832,
+          "postalCode": "10036",
+          "cc": "US",
+          "city": "New York",
+          "state": "NY",
+          "country": "United States",
+          "formattedAddress": [
+            "700 W 44th St. (at 12th Ave.)",
+            "New York, NY 10036"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e5941735",
+            "name": "Dog Run",
+            "pluralName": "Dog Runs",
+            "shortName": "Dog Run",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "checkinsCount": 2974,
+          "usersCount": 1059,
+          "tipCount": 6
+        },
+        "url": "http://www.hudsonriverpark.org",
+        "specials": {
+          "count": 0,
+          "items": []
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1467323768",
+        "venueChains": [
+          {
+            "id": "5569ff90a7c8896abe7ddfc7"
+          }
+        ]
+      }
+    ],
+    "geocode": {
+      "what": "",
+      "where": "nyc",
+      "feature": {
+        "cc": "US",
+        "name": "New York",
+        "displayName": "New York, NY, United States",
+        "matchedName": "NYC, NY, United States",
+        "highlightedName": "<b>NYC</b>, NY, United States",
+        "woeType": 7,
+        "slug": "new-york-city-new-york",
+        "id": "geonameid:5128581",
+        "longId": "72057594043056517",
+        "geometry": {
+          "center": {
+            "lat": 40.742185,
+            "lng": -73.992602
+          },
+          "bounds": {
+            "ne": {
+              "lat": 40.882214,
+              "lng": -73.907
+            },
+            "sw": {
+              "lat": 40.679548,
+              "lng": -74.047285
+            }
+          }
+        }
+      },
+      "parents": []
+    }
+  }
+}
+
+]
