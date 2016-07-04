@@ -1,0 +1,39 @@
+#signup {
+  text-align: right;
+  margin-right: 40px;
+}
+
+#logout {
+  text-align: right;
+  margin-right: 40px;
+}
+
+
+#playpal {
+  border-top: 10px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 3em;
+  font-family: helvetica;
+}
+
+#description {
+  text-align: center;
+  font-family: helvetica;
+}
+
+#navbar {
+  font-size: 20px;
+  font-family: helvetica;
+  text-align: center;
+}
+
+#running_dog {
+  text-align: center;
+}
+
+#home-text {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 20px;
+}
