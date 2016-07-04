@@ -6,6 +6,7 @@ const bodyParser              = require('body-parser')
 const session                 = require('express-session')
 const methodOverride          = require('method-override')
 
+const userRoute               = require('./routes/user_route')
 const apiRoute                = require('./routes/api_route')
 const parkRoute               = require('./routes/parks_route')
 const homeRoute               = require('./routes/home_route')
@@ -19,11 +20,18 @@ app.use(logger('dev'));
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/bower_components', express.static(path.join(__dirname,'/bower_components')))
+app.use(session({
+  saveUninitialized: true,
+  resave: true,
+  secret: 'sooopersekret',
+  cookie: {maxAge: 60000}
+}));
 
 
 app.use('/', homeRoute)
 app.use('/', apiRoute)
 app.use('/', parkRoute)
+app.use('/user', userRoute)
 
 
 app.listen(PORT, function(){
