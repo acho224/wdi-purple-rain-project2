@@ -1,44 +1,96 @@
-#signup {
-  text-align: right;
-  margin-right: 40px;
+
+body{
+  font-family: Helvetica, Arial, sans-serif;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+a{
+  color: #000000;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+li{
+  list-style: none;
 }
 
-#logout {
-  text-align: right;
-  margin-right: 40px;
-}
-
-#login {
-  text-align: right;
-  margin-right: 40px;
-
-}
-
-#playpal {
-  border-top: 10px;
+.center {
   text-align: center;
+}
+#main-header{
+  text-align: center;
+  background-color: #88BBBF;
+  color: #ffffff;
+  width: 500px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 10px 0;
+  border-radius: 5px;
+}
+#title {
+  margin: 0;
+  border-top: 10px;
   font-weight: bolder;
   font-size: 3em;
-  font-family: helvetica;
-}
-
-#description {
-  text-align: center;
-  font-family: helvetica;
 }
 
 #navbar {
-  font-size: 20px;
-  font-family: helvetica;
+  font-size: 17px;
   text-align: center;
 }
-
-#running_dog {
+#logout{
+  margin: 6px 15px 0 0;
+  text-align: right;
+}
+.nav-spacing{
+  margin: 0 18px;
+}
+#hero-image {
   text-align: center;
+  width: 500px;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
-#home-text {
-  text-align: center;
-  font-family: helvetica;
+.body {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
   font-size: 20px;
+}
+#searchpage{
+  text-align: center;
+}
+input:focus{
+  outline: none;
+}
+#zip-code{
+  border: 2px solid #2D3E40;
+  padding: 2px 5px;
+}
+#search-btn{
+  background-color: #2D3E40;
+  color: #ffffff;
+  border: 0;
+  padding: 4px 15px;
+}
+.parkItem{
+  border: 2px solid #000000;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+.parkItem h4{
+  color: #5B7D7F;
+}
+.parkId{
+  font-style: italic;
+  color: #aaaaaa;
+}
+@media screen and (max-width: 500px){
+  #home-text{
+    width: 95%;
+  }
 }

@@ -2,30 +2,26 @@
 <html>
 <% include ../views/partials/head %>
 <body>
-<br>
+
 <% include ../views/partials/header %>
-<br>
 
-  <h1>
-
-  <% if(user){ %>
-    Welcome, <%= user.fname %> <%= user.lname %>
-  <% } else { %>
-    Welcome, Guest
-  <% } %>
-
-  </h1>
-
-  <div id="running_dog">
+  <div id="hero-image">
     <img src="../../images/running_dog.gif">
   </div>
-  <br>
-  <br>
 
-  <div id="home-text">
-    <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae placeat laboriosam, est ipsum dolore amet porro totam natus nemo in odio nulla repudiandae quaerat, doloremque voluptatibus facilis id iusto necessitatibus!</span>
-    <span>Modi libero enim magnam, nihil alias! Sunt distinctio expedita molestias praesentium illo, ipsum, totam dicta a, atque doloremque blanditiis ducimus consectetur veniam quos explicabo incidunt, odio mollitia laborum qui vitae?</span>
-    <span>Quibusdam ea quo dicta, eligendi repellendus hic, iure necessitatibus enim harum nihil adipisci fugiat temporibus sed nobis. Sapiente autem eligendi libero velit laudantium, quo tempora dolore rerum voluptatum corrupti perspiciatis!</span></p>
+  <div class="body">
+    <h2>
+
+    <% if(user){ %>
+      Welcome <%= user.fname %> <%= user.lname %>
+    <% } else { %>
+      Welcome Guest,
+    <% } %>
+
+    </h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae placeat laboriosam, est ipsum dolore amet porro totam natus nemo in odio nulla repudiandae quaerat, doloremque voluptatibus facilis id iusto necessitatibus!
+      Modi libero enim magnam, nihil alias! Sunt distinctio expedita molestias praesentium illo, ipsum, totam dicta a, atque doloremque blanditiis ducimus consectetur veniam quos explicabo incidunt, odio mollitia laborum qui vitae?
+      Quibusdam ea quo dicta, eligendi repellendus hic, iure necessitatibus enim harum nihil adipisci fugiat temporibus sed nobis. Sapiente autem eligendi libero velit laudantium, quo tempora dolore rerum voluptatum corrupti perspiciatis!</p>
   </div>
 </body>
 
