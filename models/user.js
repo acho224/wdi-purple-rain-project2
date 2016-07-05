@@ -1,5 +1,5 @@
 const { MongoClient } = require('mongodb');
-const dbConnection = 'mongodb://localhost:27017/playpal';
+const dbConnection = process.env.MONGODB_URI || 'mongodb://localhost:27017/playpal';
 const bcrypt = require('bcrypt');
 const salt = bcrypt.genSalt(10);
 
