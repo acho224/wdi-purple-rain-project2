@@ -1,8 +1,8 @@
 $(document).ready(function() {
 
-  const $body   = $('body');
+  const $searchbody   = $('#searchpage');
   const $ul     = $('<ul>')
-  const $button = $('#search-dogs')
+  const $button = $('#search-btn')
 
   $button.click(function(){
     var dataObj = {};
@@ -30,14 +30,10 @@ $(document).ready(function() {
             var parkID   = park.venue.id;
             var parkAddress = park.venue.location.formattedAddress[0];
             console.log(parkName, parkID, parkAddress);
-            let $name = $('<li>').text(parkName);
-            let $address = $('<li>').text(parkAddress);
-            let $id = $('<li>').text(parkID);
-            $ul.append($name);
-            $ul.append($address);
-            $ul.append($id);
+            let $newPark = $('<li class="parkItem">').html('<div><h4>'+ parkName +'</h4><p>'+parkAddress+'</p><p class="parkId">Park ID: '+parkID+'</p><p><a href="#">Reviews</a> <span class="nav-spacing">|</span> <a href="#">Leave a Comment</a></p></div>');
+            $ul.append($newPark);
           }
-          $body.append($ul);
+          $searchbody.append($ul);
         })
       }
 

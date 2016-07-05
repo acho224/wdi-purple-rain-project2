@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html>
-<% include ../partials/head %>
+  <% include ../partials/head %>
 <body>
-<br>
-<% include ../partials/header %>
-  <h1>PlayPal Park Finder</h1>
-  <p>Find a dog run near you:</p>
+  <% include ../partials/header %>
+  <div class="body" id="searchpage">
+    <h2>PlayPal Park Finder</h2>
+    <p>Find a dog run near you:</p>
+    <input id="zip-code" type="text" placeholder="Enter Zip Code">
+    <input id="search-btn" type="submit" value="Search">
+  </div>
 </body>
-  <input id="zip-code" type="text" placeholder="Enter Zip Code">
-  <input id="search-dogs" type="submit" value="Search">
 </html>
 

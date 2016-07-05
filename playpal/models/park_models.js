@@ -17,7 +17,7 @@ module.exports = {
       url: 'https://api.foursquare.com/v2/venues/explore',
       qs: {
         query:'dog+park',
-        near:'new+york',
+        near:'united+states',
         oauth_token: token,
         v: fullDate
       },

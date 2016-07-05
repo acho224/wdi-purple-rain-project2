@@ -24,8 +24,6 @@ router.get('/login', function(req, res){
 })
 
 router.post('/login', loginUser, function(req,res) {
-  console.log('made it here');
-  console.log('user: ' + req.session.user)
   req.session.user = res.user;
   req.session.save(function(err) {
     if(err) throw err;
