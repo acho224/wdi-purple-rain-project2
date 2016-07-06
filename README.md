@@ -43,6 +43,6 @@ Sign Up
 Where My Dogs At ?
 ![dog_parks](framework/dog_parks.png)
 
-Dogs-R-Us
-![pet_stores](framework/pet_stores.png)
+Flow Chart
+![flow_chart](images/playpal_flow_chart.png)
 
